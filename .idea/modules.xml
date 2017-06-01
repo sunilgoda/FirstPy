@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ExplorePy/.idea/ExplorePy.iml" filepath="$PROJECT_DIR$/../ExplorePy/.idea/ExplorePy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstPy.iml" filepath="$PROJECT_DIR$/.idea/FirstPy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MeetupPy/.idea/MeetupPy.iml" filepath="$PROJECT_DIR$/../MeetupPy/.idea/MeetupPy.iml" />
+    </modules>
+  </component>
+</project>
